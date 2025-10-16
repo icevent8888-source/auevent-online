@@ -7,8 +7,6 @@
   "build": "next build && next export",
   "start": "next start",
   "lint": "eslint"
-}
-
   },
   "dependencies": {
     "react": "19.1.0",
